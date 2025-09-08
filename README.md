@@ -1,5 +1,4 @@
-Hi! My name is Ollie Baccay, and I am a second-year Mathematics student at Northeastern University’s College of Science with an interest in math and data science.
-
+Hi! My name is Ollie Baccay, a second-year Mathematics student at Northeastern University with an interest in math and data science. I enjoy leveraging quantitative analysis, machine learning, and statistical modeling to solve real-world problems and am seeking opportunities to apply these skills to create meaningful, data-driven solutions.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
