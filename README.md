@@ -1,5 +1,5 @@
 # About Me:
-Hi! My name is Ollie Baccay, a second-year Mathematics student at Northeastern University with an interest in math and data science. I enjoy leveraging quantitative analysis, machine learning, and statistical modeling to solve real-world problems and am seeking opportunities to apply these skills to create meaningful, data-driven solutions.
+Hi! My name is Ollie Baccay, a second-year Mathematics student at Northeastern University with an interest in math and data science. I enjoy leveraging quantitative analysis, machine learning, and statistical modeling to solve real-world problems and am seeking opportunities to apply these skills to create meaningful solutions.
 
 
 
